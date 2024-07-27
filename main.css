@@ -1,0 +1,18 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+    font-size: 50px;
+}
+
+p {
+    color:blueviolet;
+    font-size: 30px;
+}
+
+video {
+    width: 100%;
+}
